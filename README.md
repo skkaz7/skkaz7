@@ -1,9 +1,10 @@
 
 - :wave: Hello there, I’m Sebastian Kaźmierczak
-- 🌱 I’m currently learning Python, Django and JavaScript
-- 🔭 I’m currently working on my second bigger project in Django
 - :briefcase: I’m looking for my first job as a Python Developer!
-- :heart: I am interested in social science fiction books, geopolitics and solving cases
+- 🌱 I’m currently learning Python, Django and JavaScript (React + Redux)
+- 🔭 I’m currently working on my blog application
+- 🤔 I've already carried out several projects in Python, focused around Django framework and JavaScript
+- :heart: I am interested in social science fiction books, geopolitics and road cycling
 - :link: My LinkedIn profile: https://www.linkedin.com/in/sebastian-kazmierczak
 - 📫 How to reach me: s.k.kazmierczak7@gmail.com
 
