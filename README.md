@@ -1,8 +1,7 @@
 
 - :wave: Hello there, I’m Sebastian Kaźmierczak
-- :briefcase: I’m looking for my first job as a Python Developer!
 - 🌱 I’m currently learning Python, Django and JavaScript (React + Redux)
-- 🔭 I’m currently working on my blog application
+- 🔭 I am currently working on a website for a research club of which I am a member and developing a project related to data analysis
 - 🤔 I've already carried out several projects in Python, focused around Django framework and JavaScript
 - :heart: I am interested in social science fiction books, geopolitics and road cycling
 - :link: My LinkedIn profile: https://www.linkedin.com/in/sebastian-kazmierczak
@@ -10,6 +9,8 @@
 
 <!--
 **skkaz7/skkaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- :briefcase: I’m looking for my first job as a Python Developer!
 
 Here are some ideas to get you started:
 
